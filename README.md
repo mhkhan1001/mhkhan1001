@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhkhan1001
+- 👋 Hi, I’m @hammad khan
 - 👀 I’ve expertise in C++ and Python programming
 - 🌱 I’m currently learning cyber-security and firewalls
 - 💞️ I’m looking to collaborate on projects pertaining to coding and application development
